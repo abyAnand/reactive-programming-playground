@@ -1,4 +1,4 @@
-package com.reactive.publisher;
+package com.reactive.sec1.publisher;
 
 import com.github.javafaker.Faker;
 import org.reactivestreams.Subscriber;
